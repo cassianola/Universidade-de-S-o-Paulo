@@ -17,5 +17,6 @@ Uso de eventos e funções
 Estilização responsiva
 📌 Como executar
 Baixe ou clone este repositório
-Abra o index.html no navegador
-https://github.com/cassianola/Universidade-de-S-o-Paulo/ProjetoCauculadora
+Abra o index.html no navegador[
+https://github.com/cassianola/Universidade-de-S-o-Paulo/ProjetoCauculadora](https://github.com/cassianola/Universidade-de-S-o-Paulo/tree/main/ProjetoCauculadora)
+
